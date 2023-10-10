@@ -7,9 +7,9 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "externalConsole": false,
-      "cwd": "/workspaces/clase-2",
-      "program": "/workspaces/clase-2/build/Debug/outDebug",
+      "externalConsole": true,
+      "cwd": "c:/Users/alber_wzgn3ys/Documents/GitHub/clase-2",
+      "program": "c:/Users/alber_wzgn3ys/Documents/GitHub/clase-2/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
